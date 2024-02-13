@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reactValentine/static/css/main.f96f07a4.css",
+    "main.js": "/reactValentine/static/js/main.289eebf2.js",
+    "static/js/592.08fd8ea3.chunk.js": "/reactValentine/static/js/592.08fd8ea3.chunk.js",
+    "static/media/menhera-chan-hoodie.gif": "/reactValentine/static/media/menhera-chan-hoodie.8c92d58f3314c68ab0f1.gif",
+    "static/media/menhera-chan-patapata.gif": "/reactValentine/static/media/menhera-chan-patapata.b2587337b845b7940955.gif",
+    "static/media/question.jpg": "/reactValentine/static/media/question.490cf52056571ef3c6ef.jpg",
+    "static/media/menhera-chan-love.gif": "/reactValentine/static/media/menhera-chan-love.e8414df928177bc7a71a.gif",
+    "index.html": "/reactValentine/index.html",
+    "main.f96f07a4.css.map": "/reactValentine/static/css/main.f96f07a4.css.map",
+    "main.289eebf2.js.map": "/reactValentine/static/js/main.289eebf2.js.map",
+    "592.08fd8ea3.chunk.js.map": "/reactValentine/static/js/592.08fd8ea3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.289eebf2.js"
+  ]
+}
