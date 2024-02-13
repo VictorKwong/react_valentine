@@ -39,7 +39,7 @@ function App() {
     <>
       <div>
         <h2>{message}</h2>
-        <img src={imageSrc} alt="Date Image" style={{ width: '100%', maxWidth: '500px' }} />
+        <img src={imageSrc} alt="Test" style={{ width: '100%', maxWidth: '500px' }} />
       </div>
 
 
